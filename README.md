@@ -1,5 +1,5 @@
 # data-structures-and-algorithms
-![https://github.com/Tasneem-Alabed/data-structures-and-algorithms/blob/array-binary-search/binarysearch/Screenshot%20(190).png?raw=true]()
+![https://github.com/Tasneem-Alabed/data-structures-and-algorithms/blob/array-binary-search/binarysearch/Screenshot%20(190).png]()
    
 Table of Contents
  [ ] Top-level README “Table of Contents” is updated
